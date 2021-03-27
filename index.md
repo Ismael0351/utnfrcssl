@@ -2,7 +2,7 @@
   ![Branching](https://raw.githubusercontent.com/Ismael0351/utnfrcssl/main/utnfoto.png) 
   
 
-## •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
+# •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
   
 ##  Intro. a la Teoría de Autómatas, Lenguajes y Compiladores
 Teoría de Autómatas y Lenguajes: Historia y concepto de máquinas abstractas y gramáticas formales. Características de las distintas máquinas abstractas. Jerarquía de máquinas y gramáticas, y resumen de su vínculo. Alcance y contenido de la asignatura. Utilidad de las máquinas abstractas y sus aplicaciones. Compiladores: Conceptos de compiladores e intérpretes, contexto de un compilador, tipos, identificación y manejo de errores.
