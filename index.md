@@ -24,7 +24,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
  
  **Apunte Teórico:** <a href="https://www.dropbox.com/s/5x15nx0v43czb2m/SSL-ApunteTeoricoU2-1.pdf?dl=0" target="_blank">Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS) Archivo </a>.
  
-o	 **Filminas de Unidad 2:**<a href="https://www.dropbox.com/s/nujtv43kc5usdjm/SSL-ApunteTeoricoU2-2.pdf?dl=0" target="_blank">Para leer en paralelo con apuntes teóricos Archivo</a>.
+ **Filminas de Unidad 2:**<a href="https://www.dropbox.com/s/nujtv43kc5usdjm/SSL-ApunteTeoricoU2-2.pdf?dl=0" target="_blank">Para leer en paralelo con apuntes teóricos Archivo</a>.
 
 
 ### 	Material Práctico
