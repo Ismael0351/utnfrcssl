@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
- 
+ <a href="./another-page.html" target="_blank">Título del enlace</a>.
 
 # Header 1
 
