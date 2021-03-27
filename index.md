@@ -1,19 +1,6 @@
- 
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
+   
   
  
-
-  
-  
-
-
-  
-  
-
 ### UTN FRC SSL
 
 ## •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
@@ -23,14 +10,13 @@ Teoría de Autómatas y Lenguajes: Historia y concepto de máquinas abstractas y
 ### Material Teórico
  **Apunte Teórico:**<a href="https://drive.google.com/file/d/1cCzcQm4-jJsiPQaWLUslvjQLAHT3q27v/view?usp=sharing" target="_blank">Introducción a la Teoría de Autómatas y Lenguajes Formales Archivo</a>.
  
- **Filminas de Unidad 1:**[ Para leer en paralelo con el apunte teórico Archivo](https://drive.google.com/file/d/1NjxEcJFQ-TXqnUuoXpk77LkgaYhAFL5M/view?usp=sharing).
+ **Filminas de Unidad 1:**  <a href="https://drive.google.com/file/d/1NjxEcJFQ-TXqnUuoXpk77LkgaYhAFL5M/view?usp=sharing" target="_blank"> Para leer en paralelo con el apunte teórico Archivo</a>.
  
-**Apunte Teórico:**[Conceptos de Compiladores e Intérpretes Archivo](https://drive.google.com/file/d/1ISmHcbu52y2FHLL4TZePlxkNdmXunTpa/view?usp=sharing).
+**Apunte Teórico:**   <a href="https://drive.google.com/file/d/1ISmHcbu52y2FHLL4TZePlxkNdmXunTpa/view?usp=sharing" target="_blank">Conceptos de Compiladores e Intérpretes Archivo</a>.
 
- **Filminas de Compiladores:**[Para leer en paralelo con Compiladores e Intérpretes Archivo](https://drive.google.com/file/d/1cIqLBQ62YyPkmtzfywYYJ79I5VaPTx8w/view?usp=sharing).
+ **Filminas de Compiladores:** <a href="https://drive.google.com/file/d/1cIqLBQ62YyPkmtzfywYYJ79I5VaPTx8w/view?usp=sharing" target="_blank">Para leer en paralelo con Compiladores e Intérpretes Archivo</a>.
 
-
-•	 
+  
 ## Gramáticas y Lenguajes Formales
 Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y lenguajes, y sus operaciones; reglas de reescritura o producciones, derivaciones y reducciones, determinación de lenguajes. Gramáticas Formales: definiciones, tipos de gramáticas, jerarquía de Chomsky. Lenguajes regulares: gramáticas regulares, expresiones regulares. Lenguajes independientes del contexto: su gramática, gramática limpia y bien formada, propiedades. Análisis Sintáctico: concepto, árboles de derivación, ambigüedad, recursividad, factorización, formas normales de Chomsky y de Greibach; conversiones.
 ### 	Material Teórico
@@ -96,3 +82,6 @@ No disponible
 ```
 
  
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[Link to another page](./another-page.html).
