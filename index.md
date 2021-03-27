@@ -20,9 +20,9 @@ Teoría de Autómatas y Lenguajes: Historia y concepto de máquinas abstractas y
 ## Gramáticas y Lenguajes Formales
 Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y lenguajes, y sus operaciones; reglas de reescritura o producciones, derivaciones y reducciones, determinación de lenguajes. Gramáticas Formales: definiciones, tipos de gramáticas, jerarquía de Chomsky. Lenguajes regulares: gramáticas regulares, expresiones regulares. Lenguajes independientes del contexto: su gramática, gramática limpia y bien formada, propiedades. Análisis Sintáctico: concepto, árboles de derivación, ambigüedad, recursividad, factorización, formas normales de Chomsky y de Greibach; conversiones.
 ### 	Material Teórico
-o	 Apunte Teórico: Gramáticas y Lenguajes Formales - Primera Parte Archivo
-o	 Apunte Teórico: Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS) Archivo
-o	 Filminas de Unidad 2 - Para leer en paralelo con apuntes teóricos Archivo
+o	 **Apunte Teórico:** <a href="https://www.dropbox.com/s/gevcz48jj5qbbzw/SSL_Clase03.pdf?dl=0" target="_blank">Gramáticas y Lenguajes Formales - Primera Parte Archivo</a>.
+o	 **Apunte Teórico:** <a href="https://www.dropbox.com/s/5x15nx0v43czb2m/SSL-ApunteTeoricoU2-1.pdf?dl=0" target="_blank">Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS) Archivo </a>.
+o	 **Filminas de Unidad 2:**<a href="https://www.dropbox.com/s/nujtv43kc5usdjm/SSL-ApunteTeoricoU2-2.pdf?dl=0" target="_blank">Para leer en paralelo con apuntes teóricos Archivo</a>.
 
 ### 	Material Práctico
 o	 Practico de cadenas y lenguajes Archivo
