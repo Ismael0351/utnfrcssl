@@ -27,7 +27,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 
 
 ### 	Material Práctico
-o	 Practico de cadenas y lenguajes Archivo
+<a href="https://www.dropbox.com/s/ax0ubbohc36skqw/Ejercicios%20de%20cadenas%20y%20lenguajes.pdf?dl=0" target="_blank">Practico de cadenas y lenguajes Archivo</a>.
 o	 Solución a ejercicios de cadenas y lenguajes Archivo
 o	 Práctico de derivaciones y tipos de gramáticas Archivo
 o	 Soluciones a los ejercicios de derivaciones y tipos de gramática Archivo
