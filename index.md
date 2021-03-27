@@ -23,7 +23,7 @@ Teoría de Autómatas y Lenguajes: Historia y concepto de máquinas abstractas y
 ### Material Teórico
  **Apunte Teórico:**
  <a href="https://drive.google.com/file/d/1cCzcQm4-jJsiPQaWLUslvjQLAHT3q27v/view?usp=sharing" target="_blank">Introducción a la Teoría de Autómatas y Lenguajes Formales Archivo</a>.
- •
+ •\n
  **Filminas de Unidad 1:**
  [ Para leer en paralelo con el apunte teórico Archivo](https://drive.google.com/file/d/1NjxEcJFQ-TXqnUuoXpk77LkgaYhAFL5M/view?usp=sharing).
  •
