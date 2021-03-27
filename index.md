@@ -23,10 +23,10 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 ##  Intro. a la Teoría de Autómatas, Lenguajes y Compiladores
 Teoría de Autómatas y Lenguajes: Historia y concepto de máquinas abstractas y gramáticas formales. Características de las distintas máquinas abstractas. Jerarquía de máquinas y gramáticas, y resumen de su vínculo. Alcance y contenido de la asignatura. Utilidad de las máquinas abstractas y sus aplicaciones. Compiladores: Conceptos de compiladores e intérpretes, contexto de un compilador, tipos, identificación y manejo de errores.
 ### 	Material Teórico
-o	 [Apunte Teórico: Introducción a la Teoría de Autómatas y Lenguajes Formales Archivo]
-o	 [Filminas de Unidad 1: Para leer en paralelo con el apunte teórico Archivo]
-o	 [Apunte Teórico: Conceptos de Compiladores e Intérpretes Archivo]
-o	 [Filminas de Compiladores: Para leer en paralelo con Compiladores e Intérpretes Archivo]
+o	 [Apunte Teórico: Introducción a la Teoría de Autómatas y Lenguajes Formales Archivo](https://drive.google.com/file/d/1cCzcQm4-jJsiPQaWLUslvjQLAHT3q27v/view?usp=sharing).
+o	 [Filminas de Unidad 1: Para leer en paralelo con el apunte teórico Archivo](./another-page.html).
+o	 [Apunte Teórico: Conceptos de Compiladores e Intérpretes Archivo](./another-page.html).
+o	 [Filminas de Compiladores: Para leer en paralelo con Compiladores e Intérpretes Archivo](./another-page.html).
 o	Material Particular por Curso
 o	 
 
