@@ -1,7 +1,8 @@
-  ``` ![Branching](https://raw.githubusercontent.com/Ismael0351/utnfrcssl/main/utnfoto.png)  ```
+ 
+  ![Branching](https://raw.githubusercontent.com/Ismael0351/utnfrcssl/main/utnfoto.png) 
   
  
-### UTN FRC SSL
+# UTN-FRC - SSL
 
 ## •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
   
