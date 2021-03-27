@@ -18,7 +18,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 ### Header 3
 
-•	### SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
+### •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
 Aula Virtual de la Cátedra de Sintaxis y Semántica de los Lenguajes, de la carrera de Ingeniería en Sistemas de Información - UTN-FRC.
 o	Documentos Generales SSL
 o	 Modalidad Académica de Sintaxis y Semántica de los Lenguajes 2021 (Preliminar) Archivo
@@ -37,14 +37,14 @@ o	Material Particular por Curso
 o	 
 
 •	 
-Gramáticas y Lenguajes Formales
+### Gramáticas y Lenguajes Formales
 Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y lenguajes, y sus operaciones; reglas de reescritura o producciones, derivaciones y reducciones, determinación de lenguajes. Gramáticas Formales: definiciones, tipos de gramáticas, jerarquía de Chomsky. Lenguajes regulares: gramáticas regulares, expresiones regulares. Lenguajes independientes del contexto: su gramática, gramática limpia y bien formada, propiedades. Análisis Sintáctico: concepto, árboles de derivación, ambigüedad, recursividad, factorización, formas normales de Chomsky y de Greibach; conversiones.
-o	Material Teórico
+### 	Material Teórico
 o	 Apunte Teórico: Gramáticas y Lenguajes Formales - Primera Parte Archivo
 o	 Apunte Teórico: Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS) Archivo
 o	 Filminas de Unidad 2 - Para leer en paralelo con apuntes teóricos Archivo
 
-o	Material Práctico
+### 	Material Práctico
 o	 Practico de cadenas y lenguajes Archivo
 o	 Solución a ejercicios de cadenas y lenguajes Archivo
 o	 Práctico de derivaciones y tipos de gramáticas Archivo
@@ -54,38 +54,27 @@ o	 Práctico de Formas Normales Archivo
 o	Material Particular por Curso
 o	 Ejercicios de cadenas y lenguajes Archivo
 o	 Practico de derivaciones y tipos de gramáticas Archivo
-Restringido No disponible hasta que: se pertenezca al grupo SSL 2K6
-o	Cuestionarios de Autoevaluación
-o	 SSL-U2 Cuestionario Teórico
-o	 SSL-U2 Cuestionario Práctico
-o	 Clase 26-03 Carpeta
-Restringido No disponible hasta que: se pertenezca al grupo SSL 2K2
+ 
 •	 
-Máquinas Secuenciales y Autómatas Finitos Deterministas
+### Máquinas Secuenciales y Autómatas Finitos Deterministas
 No disponible
 •	 
-Autómatas Finitos No Deterministas
+### Autómatas Finitos No Deterministas
 No disponible
 •	 
-Autómatas con Pila
+### Autómatas con Pila
 No disponible
 •	 
-Autómatas Linealmente Acotados, Máquina de Turing y Complejidad
+### Autómatas Linealmente Acotados, Máquina de Turing y Complejidad
 No disponible
 •	 
-Simuladores de Máquinas Abstractas
+### Simuladores de Máquinas Abstractas
 No disponible
 •	 
-Introducción a la Semántica de Lenguajes
+### Introducción a la Semántica de Lenguajes
 No disponible
 •	 
-Primera Evaluación Parcial: 08/05/2021
-No disponible
-•	 
-Segunda Evaluación Parcial: 19/06/2021
-•	 
-Evaluaciones de Recuperación: 26/06/2021
-
+ 
 
 ```js
   
