@@ -18,8 +18,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 ### Header 3
 
-```js
- •	SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
+•	### SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
 Aula Virtual de la Cátedra de Sintaxis y Semántica de los Lenguajes, de la carrera de Ingeniería en Sistemas de Información - UTN-FRC.
 o	Documentos Generales SSL
 o	 Modalidad Académica de Sintaxis y Semántica de los Lenguajes 2021 (Preliminar) Archivo
@@ -80,8 +79,16 @@ No disponible
 Introducción a la Semántica de Lenguajes
 No disponible
 •	 
- 
+Primera Evaluación Parcial: 08/05/2021
+No disponible
+•	 
+Segunda Evaluación Parcial: 19/06/2021
+•	 
+Evaluaciones de Recuperación: 26/06/2021
 
+
+```js
+  
  
  
  
