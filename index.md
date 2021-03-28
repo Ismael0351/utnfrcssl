@@ -85,7 +85,7 @@ No disponible
 ![Branching](https://mobbyt.com/media/gallery/fc9e62695def29ccdb9eb3fed5b4c8c8/515391f9_2019-09-08-mobbyt.png)
  
 <center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
-<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=293893"></a><br>Contador de visitas</a><br></a></center>
+<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="http://www.websmultimedia.com/contador-de-visitas.php?id=293893"></a><br>Contador de visitas</center>
  
 ```
 
