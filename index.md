@@ -82,7 +82,7 @@ No disponible
 
 ### Utn Frc
 
-<img src="https://mobbyt.com/media/gallery/fc9e62695def29ccdb9eb3fed5b4c8c8/515391f9_2019-09-08-mobbyt.png" border="1" alt=" " width="400" height="300">
+<center><img src="https://mobbyt.com/media/gallery/fc9e62695def29ccdb9eb3fed5b4c8c8/515391f9_2019-09-08-mobbyt.png" border="1" alt=" " width="250" height="250"></center>
  
 ![Branching](https://mobbyt.com/media/gallery/fc9e62695def29ccdb9eb3fed5b4c8c8/515391f9_2019-09-08-mobbyt.png)
  
