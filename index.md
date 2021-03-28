@@ -39,7 +39,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 
 <a href="https://drive.google.com/file/d/1DsxUIKB3qlPo4GiBdwIy7537tsLDNW3q/view?usp=sharing" target="_blank">Práctico de Formas Normales Archivo</a>.
 
-o	Material Particular por Curso
+Material Particular por Curso
 
 <a href="https://drive.google.com/file/d/16Djx1-9rIet998S2iDpudRHjYZ-kwbVm/view?usp=sharing" target="_blank">Ejercicios de cadenas y lenguajes Archivo</a>.
  
