@@ -28,12 +28,19 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 
 ### 	Material Práctico
 <a href="https://drive.google.com/file/d/1TlV0eMZ2MQYa34dl13Ynb6MgHmDXaPh_/view?usp=sharing" target="_blank">Practico de cadenas y lenguajes Archivo</a>.
+
 <a href="https://drive.google.com/file/d/1LHadOW2NNhU4JFCeQ6RwI3SHhBM87Tzs/view?usp=sharing" target="_blank">Solución a ejercicios de cadenas y lenguajes Archivo</a>.
+
 <a href="https://drive.google.com/file/d/1LHadOW2NNhU4JFCeQ6RwI3SHhBM87Tzs/view?usp=sharing" target="_blank">Práctico de derivaciones y tipos de gramáticas Archivo</a>.
+
 <a href="https://drive.google.com/file/d/1RrR1IGxHB-1mSnJ0d_3k5_GlghxWZT0w/view?usp=sharing" target="_blank">Soluciones a los ejercicios de derivaciones y tipos de gramática Archivo</a>.
+
 <a href="https://drive.google.com/file/d/1CsrRtO1YkPVc_5yqKsIzL-vC2zUHfC4n/view?usp=sharing" target="_blank">Practico de gramática limpia y bien formada Archivo</a>.
+
 <a href="https://drive.google.com/file/d/1DsxUIKB3qlPo4GiBdwIy7537tsLDNW3q/view?usp=sharing" target="_blank">Práctico de Formas Normales Archivo</a>.
+
 o	Material Particular por Curso
+
 <a href="https://drive.google.com/file/d/16Djx1-9rIet998S2iDpudRHjYZ-kwbVm/view?usp=sharing" target="_blank">Ejercicios de cadenas y lenguajes Archivo</a>.
  
  
