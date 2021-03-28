@@ -77,11 +77,6 @@ No disponible
 ```
 
 
-
- 
-
-### Utn Frc
-
 <center><img src="https://mobbyt.com/media/gallery/fc9e62695def29ccdb9eb3fed5b4c8c8/515391f9_2019-09-08-mobbyt.png" border="1" alt=" " width="280" height="280"></center>
 
 <center><a href="http://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
@@ -92,6 +87,6 @@ No disponible
 ```
 
  
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**bold**,`ssl`.
 
 [Link to another page](./another-page.html).
