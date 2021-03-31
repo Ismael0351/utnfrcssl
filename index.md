@@ -3,6 +3,11 @@
   
 
 # •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
+
+## LIBRO DE CÁTEDRA:
+
+<a href="https://drive.google.com/file/d/1TgE503doX8kf5ZWXt42A7V0E9gr3P9or/view?usp=sharing" target="_blank">Libro Sintaxis y Semántica de los Lenguajes</a>.
+ 
   
 ##  Intro. a la Teoría de Autómatas, Lenguajes y Compiladores
 Teoría de Autómatas y Lenguajes: Historia y concepto de máquinas abstractas y gramáticas formales. Características de las distintas máquinas abstractas. Jerarquía de máquinas y gramáticas, y resumen de su vínculo. Alcance y contenido de la asignatura. Utilidad de las máquinas abstractas y sus aplicaciones. Compiladores: Conceptos de compiladores e intérpretes, contexto de un compilador, tipos, identificación y manejo de errores.
