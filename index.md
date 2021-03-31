@@ -4,6 +4,9 @@
 
 # •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
 
+
+<div style="text-align:center;padding:1em 0;"> <h4><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/es/city/3860259"><span style="color:gray;">Hora actual en</span><br />Córdoba, Argentina</a></h4> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=es&size=small&timezone=America%2FArgentina%2FCordoba" width="100%" height="90" frameborder="0" seamless></iframe> </div>
+
   `LIBRO DE CÁTEDRA:`
 <a href="https://drive.google.com/file/d/1TgE503doX8kf5ZWXt42A7V0E9gr3P9or/view?usp=sharing" target="_blank">Lenguajes Formales y Teoría de Autómatas</a>.
  
