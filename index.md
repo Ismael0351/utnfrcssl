@@ -5,7 +5,8 @@
 # •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
 
   `LIBRO DE CÁTEDRA:`
-<a href="https://drive.google.com/file/d/1TgE503doX8kf5ZWXt42A7V0E9gr3P9or/view?usp=sharing" target="_blank">Libro Sintaxis y Semántica de los Lenguajes</a>.
+<a href="https://drive.google.com/file/d/1TgE503doX8kf5ZWXt42A7V0E9gr3P9or/view?usp=sharing" target="_blank">Libro Sintaxis y Semántica de los Lenguajes</a>
+ 
  
   
 ##  Intro. a la Teoría de Autómatas, Lenguajes y Compiladores
