@@ -4,8 +4,8 @@
 
 # •	 SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
 
-
-<div style="text-align:center;padding:1em 0;"> <h4><a style="text-decoration:none;" href="https://www.zeitverschiebung.net/es/city/3860259"><span style="color:gray;">Hora actual en</span><br />Córdoba, Argentina</a></h4> <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=es&size=small&timezone=America%2FArgentina%2FCordoba" width="100%" height="90" frameborder="0" seamless></iframe> </div>
+<a href="//24timezones.com/es_reloj/argentina_buenos_aires_hora.php" style="text-decoration: none" class="clock24" id="tz24-1617229427-cc10022-eyJob3VydHlwZSI6IjI0Iiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIxIiwic2hvd3RpbWV6b25lIjoiMSIsInR5cGUiOiJkIiwibGFuZyI6ImVzIn0=" title="hora Buenos Aires" target="_blank" rel="nofollow">Argentina</a>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
 
   `LIBRO DE CÁTEDRA:`
 <a href="https://drive.google.com/file/d/1TgE503doX8kf5ZWXt42A7V0E9gr3P9or/view?usp=sharing" target="_blank">Lenguajes Formales y Teoría de Autómatas</a>.
