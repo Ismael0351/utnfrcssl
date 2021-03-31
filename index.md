@@ -95,4 +95,4 @@ No disponible
  
  `utn`
 
-[Link to another page](./another-page.html).
+[Link a otra página](./another-page.html).
