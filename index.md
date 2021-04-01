@@ -101,6 +101,6 @@ No disponible
  <audio src=" " controls="controls" type="audio/mp3"  ></audio>
  
   
- <audio autoplay loop  id="playAudio"><source src="https://cdn2.melodyloops.com/mp3/preview-party-at-the-beach.mp3"></audio>
+ <audio><source src="https://cdn2.melodyloops.com/mp3/preview-party-at-the-beach.mp3"></audio>
 
 [Link a otra página](./another-page.html).
