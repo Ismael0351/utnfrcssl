@@ -98,9 +98,7 @@ No disponible
  
  `utn-24/03/2021`
  
- <audio src="https://cdn2.melodyloops.com/mp3/preview-party-at-the-beach.mp3" controls="controls" type="audio/mpeg" autoplay loop>
-</audio>
-
-<iframe src="https://cdn2.melodyloops.com/mp3/preview-party-at-the-beach.mp3" allow="autoplay" id="audio" style="display: none"></iframe>
+ <audio src="https://cdn2.melodyloops.com/mp3/preview-party-at-the-beach.mp3" controls="controls" type="audio/mpeg" allow="autoplay" ></audio>
+ 
 
 [Link a otra página](./another-page.html).
