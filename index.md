@@ -74,10 +74,13 @@ No disponible
 •	 
  
 `Primera Evaluación Parcial: 08/05/2021`
-No disponible
+
+
 •	
 `Segunda Evaluación Parcial: 19/06/2021`
-No disponible
+
+
+
 •	
 `Evaluaciones de Recuperación: 26/06/2021`
 
