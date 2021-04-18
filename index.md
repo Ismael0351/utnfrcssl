@@ -55,8 +55,17 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
  
 •	 
 ## Máquinas Secuenciales y Autómatas Finitos Deterministas
-No disponible
-•	 
+### 	Material Teórico
+ **Apunte Teórico:**<a href="https://drive.google.com/file/d/1cmNcbJqRD9Z3ddIBNDEhSXERMXnNTlhR/view?usp=sharing" target="_blank">Máquinas Secuenciales y AFD - Segunda ParteArchivo</a>.
+ 
+ **Apunte Teórico:**<a href="https://drive.google.com/file/d/1a8jTYou4J8zsQ_JRa1Goho4X84E6ElfJ/view?usp=sharing" target="_blank">Apunte Teórico: Máquinas Secuenciales y AFD - Primera ParteArchivo</a>.
+ 
+  **Apunte Teórico:**<a href="https://drive.google.com/file/d/10SQoSNrTOQAHDNl-umHH3l0oaKMnIgbG/view?usp=sharing" target="_blank">Filminas de Unidad 3 - Para leer en paralelo con el apunte teóricoArchivo</a>.
+
+### 	Material Práctico
+
+<a href="Guía de Ejercicios Resueltos y a Resolver de Unidad 3Archivo" target="_blank">Guía de Ejercicios Resueltos y a Resolver de Unidad 3Archivo</a>.
+
 ## Autómatas Finitos No Deterministas
 No disponible
 •	 
