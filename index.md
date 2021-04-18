@@ -64,7 +64,14 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 
 ### 	Material Práctico
 
-<a href="Guía de Ejercicios Resueltos y a Resolver de Unidad 3Archivo" target="_blank">Guía de Ejercicios Resueltos y a Resolver de Unidad 3Archivo</a>.
+<a href="https://drive.google.com/file/d/1Pdp_uBN8XpcRtMbzWKGaYdXgPksIF0YU/view?usp=sharing">Guía de Ejercicios Resueltos y a Resolver de Unidad 3Archivo</a>.
+
+<a href="https://www.youtube.com/watch?v=I4wI0mwQYow&feature=youtu.be">Video Tutorial del Simulador JFLAPURL</a>.
+ 
+<a href="https://drive.google.com/file/d/1-a0yV4ZrH2zRO7HKpxZDpsKBsZnITJV3/view?usp=sharing">Trabajo Práctico IntegradorArchivo</a>.
+
+<a href="https://drive.google.com/file/d/1c0-Oa8rglEYnC5Pm_1AkXXoPaIehnyZJ/view?usp=sharing" target="_blank">Practico de diseño de AFDArchivo</a>.
+  
 
 ## Autómatas Finitos No Deterministas
 No disponible
