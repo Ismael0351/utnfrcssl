@@ -9,6 +9,8 @@
 
   `LIBRO DE CÁTEDRA:`
 <a href="https://drive.google.com/file/d/1TgE503doX8kf5ZWXt42A7V0E9gr3P9or/view?usp=sharing" target="_blank">Lenguajes Formales y Teoría de Autómatas</a>.
+
+<a href="https://www.youtube.com/playlist?list=PL1Y4Ym_7DImmRgd_Xow1REUPggrb11_vg" target="_blank">Clases Grabadas</a>.
  
  
  
