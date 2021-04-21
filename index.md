@@ -142,4 +142,4 @@ No disponible
 <audio src="https://c3ny1.mediainbox.net/fmcordoba.mp3" type="audio/mp3" controls ></audio>
   
 
-[Link a otra página](./another-page.html).
+[.](./another-page.html).
