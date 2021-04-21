@@ -74,8 +74,20 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
   
 
 ## Autómatas Finitos No Deterministas
-No disponible
-•	 
+**Apunte Teórico:**<a href="https://drive.google.com/file/d/1Crot-wZBYmjaoClfZZ1yT9CkZ7BdpZrP/view?usp=sharing" target="_blank">Apunte Teórico: Autómatas Finitos No DeterministasArchivo</a>.
+
+**Apunte Teórico:**<a href="https://drive.google.com/file/d/1xC2NpKU_i8wRFVQ7gkv73qjfkUzzKrBU/view?usp=sharing" target="_blank">Filminas de Unidad 4 - Para leer en paralelo con el apunte teóricoArchivo</a>.
+
+**Apunte Teórico:**<a href="https://drive.google.com/file/d/1-eW06cgzpcC1UZ3tFLFnnoQpouDxrRLg/view?usp=sharing" target="_blank">Filminas de Unidad 4 - Anexo: Algoritmo de ThompsonArchivo</a>.
+ 
+### 	Material Práctico
+
+<a href="https://drive.google.com/file/d/1WNFyltH4j-312iyb4bdkSBkYSgLFazra/view?usp=sharing" target="_blank">Guía de Ejercicios Resueltos y a Resolver de la Unidad 4Archivo</a>.
+
+<a href="https://drive.google.com/file/d/11NhIYnM-0cygfwSEqIwnB9IMiFccBshb/view?usp=sharing" target="_blank">Practico de AFND e isomorfismo entre AF y G3Archivo</a>.
+
+
+
 ## Autómatas con Pila
 No disponible
 •	 
