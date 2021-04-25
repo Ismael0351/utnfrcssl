@@ -73,7 +73,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
  
 <a href="https://drive.google.com/file/d/1-a0yV4ZrH2zRO7HKpxZDpsKBsZnITJV3/view?usp=sharing" target="_blank">Trabajo Práctico IntegradorArchivo</a>.
 
-<a href="https://drive.google.com/file/d/1-a0yV4ZrH2zRO7HKpxZDpsKBsZnITJV3/view?usp=sharing" target="_blank">Practico de minimización de AFDArchivo</a>.
+<a href="https://drive.google.com/drive/u/0/folders/1YXLNprxj09-MLUj--hTNUn1Z60fwI1Es" target="_blank">Practico de minimización de AFDArchivo</a>.
  
 <a href="https://drive.google.com/file/d/1XplDix0JvIbJbX-mbPO1qN3CgdbwPb32/view?usp=sharing" target="_blank">Practico de diseño de AFDArchivo</a>.
   
