@@ -81,6 +81,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
   
 
 ## Autómatas Finitos No Deterministas
+### 	Material Teórico
 **Apunte Teórico:**<a href="https://drive.google.com/file/d/1Crot-wZBYmjaoClfZZ1yT9CkZ7BdpZrP/view?usp=sharing" target="_blank">Apunte Teórico: Autómatas Finitos No DeterministasArchivo</a>.
 
 **Apunte Teórico:**<a href="https://drive.google.com/file/d/1xC2NpKU_i8wRFVQ7gkv73qjfkUzzKrBU/view?usp=sharing" target="_blank">Filminas de Unidad 4 - Para leer en paralelo con el apunte teóricoArchivo</a>.
