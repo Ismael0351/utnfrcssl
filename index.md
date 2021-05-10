@@ -94,8 +94,18 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 
 
 ## Autómatas con Pila
-No disponible
-•	 
+**Apunte Teórico:**<a href="https://drive.google.com/file/d/1gnavY0RQPYAzCFmtS53EBreBb894VHS7/view?usp=sharing" target="_blank">Autómatas con PilaArchivo</a>.  
+
+**Apunte Teórico:**<a href="https://drive.google.com/file/d/100xibQV6WPC0w9fq_SOeCyBs_J7-P2n8/view?usp=sharing" target="_blank">Filminas de Unidad 5 - Para leer en paralelo con el apunte teóricoArchivo</a>. 
+
+### 	Material Práctico
+
+ <a href="https://drive.google.com/file/d/1iWnI4KQabfVu0K3nPLl5bMj7f8JW6Nmi/view?usp=sharing" target="_blank">Guía de Ejercicios a Resolver y Resueltos de la Unidad 5Archivo</a>.
+
+<a href="https://drive.google.com/file/d/1HrMsxt68n5p7QcESwGECIfUa06FLWa8C/view?usp=sharing" target="_blank">Clase Práctica de Autómatas con PilaArchivo</a>.
+
+<a href="https://drive.google.com/file/d/1xO10wbtILVOxMA_julS5dZp68UGwIGTG/view?usp=sharing" target="_blank">Clase Práctica de Analizadores SintácticosArchivoo</a>.
+
 ## Autómatas Linealmente Acotados, Máquina de Turing y Complejidad
 No disponible
 •	 
