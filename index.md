@@ -112,9 +112,8 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 
 ## Autómatas Linealmente Acotados, Máquina de Turing y Complejidad
  
- ### Material Teórico
- 
- **Apunte Teórico:**<a href="https://drive.google.com/file/d/1sarXq-bYWP9J-d7A-29INBe9z7O62GLM/view?usp=sharing" target="_blank">Autómata Linealmente Acotado y Máquina de TuringArchivo</a>.  
+### Material Teórico
+**Apunte Teórico:**<a href="https://drive.google.com/file/d/1sarXq-bYWP9J-d7A-29INBe9z7O62GLM/view?usp=sharing" target="_blank">Autómata Linealmente Acotado y Máquina de TuringArchivo</a>.  
  
  <a href="https://drive.google.com/file/d/19fXyOnNaabBlUtT0Xahz0c8s8pZLh3wM/view?usp=sharing" target="_blank">Filminas de Unidad 6 - Para leer en paralelo con el apunte teóricoArchivo</a>. 
  
