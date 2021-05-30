@@ -127,10 +127,10 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
  <a href="https://drive.google.com/file/d/1iWDVVYh33xuWmsID2ZUKZtGsfAXJU2Yc/view?usp=sharing" target="_blank">Clase Práctica de ALAArchivo</a>.
  
  <a href="https://drive.google.com/file/d/1KVVHl3dofhfqrRAAGzTGGUcH4NheegLP/view?usp=sharing" target="_blank">Clase Práctica de MTArchivo</a>.
+ 
+ 
+ <a href="https://drive.google.com/file/d/1Z_BuMeJdsZzkHSFK2Z1VxX1ULtszVEKR/view?usp=sharing" target="_blank">Clase Práctica de ComplejidadArchivo</a>.
   
- 
- 
-Clase Práctica de ComplejidadArchivo
   
  
 ## Simuladores de Máquinas Abstractas
