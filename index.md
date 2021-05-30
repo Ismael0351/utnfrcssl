@@ -119,7 +119,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
  
  <a href="https://drive.google.com/file/d/1ZKJ2evSD8n0lJFrL7nKO067elwG4wpms/view?usp=sharing" target="_blank">Filminas de Complejidad - Para leer en paralelo con el apunte teóricoArchivo</a>. 
   
- ### 	Material Práctico
+### Material Práctico
  
  <a href="https://drive.google.com/file/d/1KVoPq5vRPcA4ae1c_58hJgutUa3c3eRJ/view?usp=sharing" target="_blank">Guía de Ejercicios a Resolver y Resueltos de la Unidad 6Archivoo</a>.
   
