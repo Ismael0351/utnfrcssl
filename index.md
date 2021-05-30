@@ -111,8 +111,28 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 <a href="https://drive.google.com/file/d/1xO10wbtILVOxMA_julS5dZp68UGwIGTG/view?usp=sharing" target="_blank">Clase Práctica de Analizadores SintácticosArchivoo</a>.
 
 ## Autómatas Linealmente Acotados, Máquina de Turing y Complejidad
-No disponible
-•	 
+ 
+ ### Material Teórico
+ 
+ **Apunte Teórico:**<a href="https://drive.google.com/file/d/1sarXq-bYWP9J-d7A-29INBe9z7O62GLM/view?usp=sharing" target="_blank">Autómata Linealmente Acotado y Máquina de TuringArchivo</a>.  
+ 
+ <a href="https://drive.google.com/file/d/19fXyOnNaabBlUtT0Xahz0c8s8pZLh3wM/view?usp=sharing" target="_blank">Filminas de Unidad 6 - Para leer en paralelo con el apunte teóricoArchivo</a>. 
+ 
+ <a href="https://drive.google.com/file/d/1ZKJ2evSD8n0lJFrL7nKO067elwG4wpms/view?usp=sharing" target="_blank">Filminas de Complejidad - Para leer en paralelo con el apunte teóricoArchivo</a>. 
+  
+ ### 	Material Práctico
+ 
+ <a href="https://drive.google.com/file/d/1KVoPq5vRPcA4ae1c_58hJgutUa3c3eRJ/view?usp=sharing" target="_blank">Guía de Ejercicios a Resolver y Resueltos de la Unidad 6Archivoo</a>.
+  
+ <a href="https://drive.google.com/file/d/1iWDVVYh33xuWmsID2ZUKZtGsfAXJU2Yc/view?usp=sharing" target="_blank">Clase Práctica de ALAArchivo</a>.
+ 
+ <a href="https://drive.google.com/file/d/1KVVHl3dofhfqrRAAGzTGGUcH4NheegLP/view?usp=sharing" target="_blank">Clase Práctica de MTArchivo</a>.
+  
+ 
+ 
+Clase Práctica de ComplejidadArchivo
+  
+ 
 ## Simuladores de Máquinas Abstractas
 No disponible
 •	 
@@ -120,9 +140,7 @@ No disponible
 No disponible
 •	 
  
-•
-`Primera Evaluación Parcial: 08/05/2021`
-
+ 
 
 •	
 `Segunda Evaluación Parcial: 19/06/2021`
