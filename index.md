@@ -133,8 +133,14 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
   
  
 ## Simuladores de Máquinas Abstractas
-No disponible
-•	 
+
+### Material Teórico
+**Apunte Teórico:**<a href="https://drive.google.com/file/d/1HN4GPcAgbJVyMMKye88A_PfvfVfTORhg/view?usp=sharing" target="_blank">Simuladores de Máquinas AbstractasArchivo</a>.  
+ 
+<a href="https://drive.google.com/file/d/1XgqFGZs4lBUEFzE9K3mXasxzlwv7uay0/view?usp=sharing" target="_blank">Filminas de Unidad 7 - Para leer en paralelo con apunte teóricoArchivoo</a>.  
+ 
+
+
 ## Introducción a la Semántica de Lenguajes
 No disponible
 •	 
