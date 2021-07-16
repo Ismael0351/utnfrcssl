@@ -12,6 +12,10 @@
 
 `CLASES GRABADAS:`
 <img src="https://cdn.icon-icons.com/icons2/195/PNG/128/YouTube_23392.png"  width="27" height="27" ><a style="text-decoration:none"  href="https://www.youtube.com/playlist?list=PL1Y4Ym_7DImmRgd_Xow1REUPggrb11_vg" target="_blank"> LINK YOUTUBE</a>.
+
+`CUESTIONARIOS Y RESUMENES:`
+<img src="https://image.flaticon.com/icons/png/128/716/716916.png"  width="27" height="27" ><a style="text-decoration:none"  href="https://drive.google.com/drive/folders/1RL-bMHrrxcyTJ3dSiXagxJ13Vjypajl7?usp=sharing" target="_blank"> LINK </a>.
+ 
  
   
  
