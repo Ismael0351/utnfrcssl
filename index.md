@@ -11,9 +11,9 @@
 <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" ><a href="https://drive.google.com/file/d/1TgE503doX8kf5ZWXt42A7V0E9gr3P9or/view?usp=sharing" target="_blank"> Lenguajes Formales y Teoría de Autómatas</a>.
 
 `CLASES GRABADAS:`
-<a href="https://www.youtube.com/playlist?list=PL1Y4Ym_7DImmRgd_Xow1REUPggrb11_vg" target="_blank">LINK YOUTUBE</a>.
+<img src="https://cdn.icon-icons.com/icons2/195/PNG/128/YouTube_23392.png"  width="25" height="25" ><a href="https://www.youtube.com/playlist?list=PL1Y4Ym_7DImmRgd_Xow1REUPggrb11_vg" target="_blank">LINK YOUTUBE</a>.
  
- 
+  
  
   
 ##  Intro. a la Teoría de Autómatas, Lenguajes y Compiladores
