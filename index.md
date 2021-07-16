@@ -146,7 +146,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 ### Material Teórico
 **Apunte Teórico:**<a href="https://drive.google.com/file/d/1JnyTeaW_TAufd8JDTAxQhZUc6qltyird/view?usp=sharing" target="_blank">Introducción a la Semántica de LenguajesArchivo</a>.  
  
-<a href="https://drive.google.com/file/d/1GiVQG7mImi0oECF3zskB-Hh2aQ-ph_HK/view?usp=sharing" target="_blank">Filminas de Unidad 8 - Para leer en paralelo con apunte teóricoArchivo</a>.   
+<a title="Pdf" href="https://drive.google.com/file/d/1GiVQG7mImi0oECF3zskB-Hh2aQ-ph_HK/view?usp=sharing" target="_blank">Filminas de Unidad 8 - Para leer en paralelo con apunte teóricoArchivo</a>.   
 
 
 <a title="Pdf"><img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="30" height="30" ></a>
