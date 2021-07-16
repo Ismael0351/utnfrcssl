@@ -151,7 +151,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 
 <a title="Pdf"><img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="30" height="30" ></a>
 
- 
+<a href="javascript:void(0)" onclick="location.href='https://blob.cl'">Link</a> 
 
 ```
 
