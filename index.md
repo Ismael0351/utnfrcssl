@@ -135,18 +135,18 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 ## Simuladores de Máquinas Abstractas
 
 ### Material Teórico
-**Apunte Teórico:**<a href="https://drive.google.com/file/d/1HN4GPcAgbJVyMMKye88A_PfvfVfTORhg/view?usp=sharing" target="_blank">Simuladores de Máquinas AbstractasArchivo</a>.  
+**Apunte Teórico:**<a style="text-decoration:none" href="https://drive.google.com/file/d/1HN4GPcAgbJVyMMKye88A_PfvfVfTORhg/view?usp=sharing" target="_blank">Simuladores de Máquinas AbstractasArchivo</a>.  
  
-<a href="https://drive.google.com/file/d/1XgqFGZs4lBUEFzE9K3mXasxzlwv7uay0/view?usp=sharing" target="_blank">Filminas de Unidad 7 - Para leer en paralelo con apunte teóricoArchivoo</a>.  
+<a style="text-decoration:none" href="https://drive.google.com/file/d/1XgqFGZs4lBUEFzE9K3mXasxzlwv7uay0/view?usp=sharing" target="_blank">Filminas de Unidad 7 - Para leer en paralelo con apunte teóricoArchivoo</a>.  
  
 
 
 ## Introducción a la Semántica de Lenguajes
 
 ### Material Teórico
-**Apunte Teórico:**<a href="https://drive.google.com/file/d/1JnyTeaW_TAufd8JDTAxQhZUc6qltyird/view?usp=sharing" target="_blank">Introducción a la Semántica de LenguajesArchivo</a>.  
+**Apunte Teórico:**<a style="text-decoration:none" href="https://drive.google.com/file/d/1JnyTeaW_TAufd8JDTAxQhZUc6qltyird/view?usp=sharing" target="_blank">Introducción a la Semántica de LenguajesArchivo</a>.  
  
-<a title="Pdf" href="https://drive.google.com/file/d/1GiVQG7mImi0oECF3zskB-Hh2aQ-ph_HK/view?usp=sharing" target="_blank">Filminas de Unidad 8 - Para leer en paralelo con apunte teóricoArchivo</a>.   
+<a style="text-decoration:none" href="https://drive.google.com/file/d/1GiVQG7mImi0oECF3zskB-Hh2aQ-ph_HK/view?usp=sharing" target="_blank">Filminas de Unidad 8 - Para leer en paralelo con apunte teóricoArchivo</a>.   
 
 
 <a title="Pdf"><img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="30" height="30" ></a>
