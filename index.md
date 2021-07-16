@@ -31,7 +31,7 @@ Teoría de Autómatas y Lenguajes: Historia y concepto de máquinas abstractas y
 ## Gramáticas y Lenguajes Formales
 Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y lenguajes, y sus operaciones; reglas de reescritura o producciones, derivaciones y reducciones, determinación de lenguajes. Gramáticas Formales: definiciones, tipos de gramáticas, jerarquía de Chomsky. Lenguajes regulares: gramáticas regulares, expresiones regulares. Lenguajes independientes del contexto: su gramática, gramática limpia y bien formada, propiedades. Análisis Sintáctico: concepto, árboles de derivación, ambigüedad, recursividad, factorización, formas normales de Chomsky y de Greibach; conversiones.
 ### 	Material Teórico
- <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Apunte Teórico:** <a style="text-decoration:none" href="https://www.dropbox.com/s/gevcz48jj5qbbzw/SSL_Clase03.pdf?dl=0" target="_blank">Gramáticas y Lenguajes Formales - Primera Parte Archivo</a>.
+ <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Apunte Teórico:** <a style="text-decoration:none" href="https://drive.google.com/file/d/19idcLc7n1UZmHsUDFaigqEBXuWea7ODp/view?usp=sharing" target="_blank">Gramáticas y Lenguajes Formales - Primera Parte Archivo</a>.
  
  <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Apunte Teórico:** <a style="text-decoration:none" href="https://www.dropbox.com/s/5x15nx0v43czb2m/SSL-ApunteTeoricoU2-1.pdf?dl=0" target="_blank">Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS)</a>.
  
