@@ -173,7 +173,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
  `24/03/2021`
  
  
-<audio src="https://c3ny1.mediainbox.net/fmcordoba.mp3" type="audio/mp3" controls ></audio>
+<center><audio src="https://c3ny1.mediainbox.net/fmcordoba.mp3" type="audio/mp3" controls ></audio></center>
   
 
 [.](./another-page.html).
