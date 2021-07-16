@@ -35,7 +35,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
  
  <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Apunte Teórico:** <a style="text-decoration:none" href="https://drive.google.com/file/d/1p9ZQUj9gKY8OgrHBT4bqGafqTEiWiKyZ/view?usp=sharing" target="_blank">Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS)</a>.
  
- <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Filminas de Unidad 2:**<a style="text-decoration:none" href="https://www.dropbox.com/s/nujtv43kc5usdjm/SSL-ApunteTeoricoU2-2.pdf?dl=0" target="_blank">Para leer en paralelo con apuntes teóricos Archivo</a>.
+ <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Filminas de Unidad 2:**<a style="text-decoration:none" href="https://drive.google.com/file/d/1zHVpuWDna3HzQpBV8g369xqKTcFc2aa6/view?usp=sharing" target="_blank">Para leer en paralelo con apuntes teóricos Archivo</a>.
 
 
 ### 	Material Práctico
