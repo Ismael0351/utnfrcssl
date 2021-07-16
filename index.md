@@ -33,7 +33,7 @@ Introducción a la Lingüística Matemática: símbolos, alfabetos, palabras y l
 ### 	Material Teórico
  <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Apunte Teórico:** <a style="text-decoration:none" href="https://drive.google.com/file/d/19idcLc7n1UZmHsUDFaigqEBXuWea7ODp/view?usp=sharing" target="_blank">Gramáticas y Lenguajes Formales - Primera Parte Archivo</a>.
  
- <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Apunte Teórico:** <a style="text-decoration:none" href="https://www.dropbox.com/s/5x15nx0v43czb2m/SSL-ApunteTeoricoU2-1.pdf?dl=0" target="_blank">Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS)</a>.
+ <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Apunte Teórico:** <a style="text-decoration:none" href="https://drive.google.com/file/d/1p9ZQUj9gKY8OgrHBT4bqGafqTEiWiKyZ/view?usp=sharing" target="_blank">Gramáticas y Lenguajes Formales - Segunda Parte (Incluye GUÍA DE EJERCICIOS)</a>.
  
  <img src="https://plataforma.liceodelvalle.edu.ec/images/iconos/pdf.png"  width="25" height="25" > **Filminas de Unidad 2:**<a style="text-decoration:none" href="https://www.dropbox.com/s/nujtv43kc5usdjm/SSL-ApunteTeoricoU2-2.pdf?dl=0" target="_blank">Para leer en paralelo con apuntes teóricos Archivo</a>.
 
